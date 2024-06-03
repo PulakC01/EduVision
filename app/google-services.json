@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "636463863377",
+    "project_id": "eduvision-e27ab",
+    "storage_bucket": "eduvision-e27ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636463863377:android:eaa0adcdd28b011205ca70",
+        "android_client_info": {
+          "package_name": "com.teaminversion.envisionbuddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFnwMIcg5ZZiSf_pMerbet4NscsKjOLLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
